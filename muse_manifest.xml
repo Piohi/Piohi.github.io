@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="main.com" resolutions="1x" timestamp="1545130281355">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="main.com" resolutions="1x" timestamp="1545132663113">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3824657565" ref="index"/>
-    <file name="nomq_index.css" crc="130767249" ref="index"/>
-    <file name="3.css" crc="7694602" ref="3"/>
-    <file name="nomq_3.css" crc="405085417" ref="3"/>
-    <file name="1.css" crc="245826428" ref="1"/>
-    <file name="nomq_1.css" crc="3777481998" ref="1"/>
-    <file name="2.css" crc="93922493" ref="2"/>
-    <file name="nomq_2.css" crc="313517172" ref="2"/>
-    <file name="exam.css" crc="53927475" ref="exam"/>
-    <file name="nomq_exam.css" crc="183371072" ref="exam"/>
+    <file name="index.css" crc="41753156" ref="index"/>
+    <file name="nomq_index.css" crc="525079236" ref="index"/>
+    <file name="3.css" crc="37956055" ref="3"/>
+    <file name="nomq_3.css" crc="3761420831" ref="3"/>
+    <file name="1.css" crc="3787283438" ref="1"/>
+    <file name="nomq_1.css" crc="3971161502" ref="1"/>
+    <file name="2.css" crc="178096461" ref="2"/>
+    <file name="nomq_2.css" crc="4011511364" ref="2"/>
+    <file name="exam.css" crc="232911445" ref="exam"/>
+    <file name="nomq_exam.css" crc="194152014" ref="exam"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2:3:exam"/>
@@ -29,19 +29,18 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="3"/>
   </folder>
   <folder name="images">
-    <file name="1200px-cisco_logo_blue_2016svg.png" crc="136815288" seo="true" ref="index">
+    <file name="1200px-cisco_logo_blue_2016svg.png" crc="3760910690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="github-mark-crop-u1261.png" crc="4250767287" seo="true" ref="index">
+    <file name="github-mark-crop-u1261.png" crc="433086758" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="202642-4.png" crc="384332541" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="202642-4.png" crc="3794582980" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:1:2:3:exam"/>
@@ -62,18 +61,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="exam" alt=""/>
       <caption webpage="exam" alt=""/>
       <caption webpage="exam" alt=""/>
       <caption webpage="exam" alt=""/>
     </file>
-    <file name="github-mark-crop-u12612.png" crc="246008974" seo="true" ref="index">
+    <file name="github-mark-crop-u12612.png" crc="25557165" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="github-mark-crop-u12613.png" crc="3805367698" seo="true" ref="index">
+    <file name="github-mark-crop-u12613.png" crc="4265722057" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="github-mark-crop-u12614.png" crc="4012142019" seo="true" ref="index">
+    <file name="github-mark-crop-u12614.png" crc="369806847" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1.jpg" crc="498679570" ref="2">
@@ -100,13 +101,32 @@
     <file name="antongolodny.jpg" crc="4242137124" ref="3">
       <caption webpage="3" alt=""/>
     </file>
-    <file name="вариант-u6308-fr.jpg" crc="82863483" ref="3"/>
-    <file name="вариант-u6308-fr2.jpg" crc="330546028" ref="3"/>
-    <file name="antongolodny-u6294-fr.jpg" crc="4218980067" ref="3"/>
+    <file name="202642-4211x141.png" crc="290018933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="202642-4206x137.png" crc="101262192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="202642-4163x109.png" crc="54117691" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github-mark-crop-u12615.png" crc="4283691540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="202642-4268x178.png" crc="4218346677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github-mark-crop-u12616.png" crc="238899893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вариант-u8247-fr.jpg" crc="82863483" ref="3"/>
+    <file name="вариант-u8247-fr2.jpg" crc="330546028" ref="3"/>
+    <file name="antongolodny-u8282-fr.jpg" crc="4218980067" ref="3"/>
   </folder>
-  <file name="index.html" crc="3892702586" seo="true" mt="1545130177213" redirect="true"/>
-  <file name="1.html" crc="428492212" seo="true" mt="1545130168598" redirect="true"/>
-  <file name="2.html" crc="430607647" seo="true" mt="1545130168597" redirect="true"/>
-  <file name="3.html" crc="197275520" seo="true" mt="1545130168596" redirect="true"/>
-  <file name="exam.html" crc="3935756282" seo="true" mt="1545130168593" redirect="true"/>
+  <file name="index.html" crc="3930859172" seo="true" mt="1545132422310" redirect="true"/>
+  <file name="1.html" crc="4138381726" seo="true" mt="1545132010429" redirect="true"/>
+  <file name="2.html" crc="144263991" seo="true" mt="1545132595878" redirect="true"/>
+  <file name="3.html" crc="137622182" seo="true" mt="1545131745549" redirect="true"/>
+  <file name="exam.html" crc="3871790255" seo="true" mt="1545131508403" redirect="true"/>
 </manifest>
